@@ -17,13 +17,12 @@ footer {
 }
 
 .drum-set {
-  background-image: url("images/drum.png");
+  background-image: url("images/drum.jpg");
   width: 300px;
   height: 30vh;
   margin: 0 40%;
   background-size: cover;
   border: 10px solid #404B69;
-  background-color: white;
 }
 
 .w {
